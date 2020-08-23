@@ -99,4 +99,6 @@
 
 최종 발표 '층간소음이 모지' 팀: https://github.com/sullivanproject/2020-floor_noise-flutter_education/blob/master/6%EC%B0%A8%EC%8B%9C%20%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/6%EC%B0%A8%EC%8B%9C%20%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C_%EC%B8%B5%EA%B0%84%EC%86%8C%EC%9D%8C%EC%9D%B4%20%EB%AA%A8%EC%A7%80.pptx
 
+- 소스 코드: https://github.com/sullivanproject/2020-floor_noise-flutter_education/tree/master/Emoji-Chat
+
 ---
