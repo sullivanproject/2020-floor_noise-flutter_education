@@ -56,7 +56,7 @@
 
 발표 키노트: https://speakerdeck.com/woollim/no4-floor-noise-project-in-sullivan
 
-소스코드: TODO
+소스코드: https://github.com/sullivanproject/2020-floor_noise-flutter_education/tree/master/Decibel-Checker
 
 ---
 
