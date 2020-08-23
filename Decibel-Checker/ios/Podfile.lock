@@ -1,0 +1,43 @@
+PODS:
+  - audio_streamer (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_realm (0.0.1):
+    - Flutter
+    - Realm (~> 3.17.3)
+  - permission_handler (5.0.1):
+    - Flutter
+  - Realm (3.17.3):
+    - Realm/Headers (= 3.17.3)
+  - Realm/Headers (3.17.3)
+
+DEPENDENCIES:
+  - audio_streamer (from `.symlinks/plugins/audio_streamer/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_realm (from `.symlinks/plugins/flutter_realm/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Realm
+
+EXTERNAL SOURCES:
+  audio_streamer:
+    :path: ".symlinks/plugins/audio_streamer/ios"
+  Flutter:
+    :path: Flutter
+  flutter_realm:
+    :path: ".symlinks/plugins/flutter_realm/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+
+SPEC CHECKSUMS:
+  audio_streamer: af49e73eb66f71c4eeabb4bbcb05f122d03a6709
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_realm: a977316966918fb608fe7c3e7f565ffc7b26dcdd
+  permission_handler: 7022f8972d2d85ce95c1040db945f28bdbfa45d1
+  Realm: 5a1d9d47bfc101dd597668b1a8af4288a2557f6d
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.9.3
