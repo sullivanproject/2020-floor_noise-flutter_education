@@ -15,7 +15,7 @@
 >
 > 비개발자에게 생각보다 쉽고 가볍게 소프트웨어를 만드는 경험을 전달한다. "앱 만드는 것 생각보다 어렵지 않다" 라는 생각을 심어주는 교육이어야 한다. 
 
-인용링크: [2020 설리번 앱 1팀 교육 스케치문서](TODO)
+인용링크: [2020 설리번 앱 1팀 교육 스케치문서](https://github.com/sullivanproject/2020-floor_noise-flutter_education/blob/master/%EC%82%AC%EC%A0%84%20%EC%A4%80%EB%B9%84/%EA%B5%90%EC%9C%A1-%EC%8A%A4%EC%BC%80%EC%B9%98.md)
 
 ---
 
