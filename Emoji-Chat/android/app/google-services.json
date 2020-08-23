@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "206926389754",
+    "firebase_url": "https://sullivan-flutter.firebaseio.com",
+    "project_id": "sullivan-flutter",
+    "storage_bucket": "sullivan-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206926389754:android:e4265cef6002c1870b0443",
+        "android_client_info": {
+          "package_name": "com.woollim.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206926389754-hh6adg841tabt089hbvngkkp28n3g2eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7gxsBF-9LZYdiNoxgS4oSsQd5tql6UiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206926389754-hh6adg841tabt089hbvngkkp28n3g2eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
